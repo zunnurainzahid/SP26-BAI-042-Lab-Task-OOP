@@ -1,1 +1,1 @@
-# SP26-BAI-042-OOP
+# SP26-BAI-042-OOP Lab task
